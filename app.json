@@ -1,0 +1,29 @@
+{
+  "id": "11a4f725-f38b-45a2-b790-7c24181f55a6",
+  "name": "Interface",
+  "publisher": "Keith How",
+  "version": "1.0.0.0",
+  "brief": "Interface",
+  "description": "Interface",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50300,
+      "to": 50349
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
