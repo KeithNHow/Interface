@@ -1,7 +1,7 @@
 /// <summary>
-/// Enum Animal Type (ID 50100) implements Interface IAnimal
+/// Enum Animal Type (ID 50900) implements Interface IAnimal
 /// </summary>
-enum 50300 "KNH Pet Type" implements IPetSound
+enum 50900 "KNH Pet Type" implements IPetSound
 {
     Extensible = true;
     value(1; Dog)

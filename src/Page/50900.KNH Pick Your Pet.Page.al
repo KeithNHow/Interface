@@ -1,7 +1,7 @@
 /// <summary>
-/// Page 50300 "KNH Pick Your Pet".
+/// Page 50900 "KNH Pick Your Pet".
 /// </summary>
-page 50300 "KNH Pick Your Pet"
+page 50900 "KNH Pick Your Pet"
 {
     PageType = StandardDialog;
     Caption = 'Pick Your pet';

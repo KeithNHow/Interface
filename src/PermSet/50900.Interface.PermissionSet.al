@@ -1,7 +1,7 @@
 /// <summary>
-/// Unknown Interface (ID 50300).
+/// Unknown Interface (ID 50900).
 /// </summary>
-permissionset 50300 "Interface"
+permissionset 50900 "Interface"
 {
     Assignable = true;
     Caption = 'Interface', MaxLength = 30;

@@ -1,7 +1,7 @@
 /// <summary>
-/// Codeunit "Cat" (ID 50102).
+/// Codeunit "Cat" (ID 50902).
 /// </summary>
-codeunit 50302 "KNH Cat" Implements IPetSound
+codeunit 50902 "KNH Cat" Implements IPetSound
 {
     /// <summary>
     /// Meow

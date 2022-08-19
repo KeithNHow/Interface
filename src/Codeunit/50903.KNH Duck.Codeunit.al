@@ -1,7 +1,7 @@
 /// <summary>
-/// Codeunit "Duck" (ID 50103).
+/// Codeunit "Duck" (ID 50903).
 /// </summary>
-codeunit 50303 "KNH Duck" Implements IPetSound
+codeunit 50903 "KNH Duck" Implements IPetSound
 {
     /// <summary>
     /// Quack

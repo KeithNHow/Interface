@@ -1,7 +1,7 @@
 /// <summary>
-/// Codeunit Demo Pick your Pet (ID 50104).
+/// Codeunit Demo Pick your Pet (ID 50904).
 /// </summary>
-codeunit 50300 "KNH Pick Your Pet"
+codeunit 50904 "KNH Pick Your Pet"
 {
     trigger OnRun()
     var
