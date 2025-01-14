@@ -1,7 +1,7 @@
 {
   "id": "11a4f725-f38b-45a2-b790-7c24181f55a6",
   "name": "Interface",
-  "publisher": "Keith How",
+  "publisher": "KeithHow",
   "version": "1.0.0.0",
   "brief": "Interface",
   "description": "Interface",
@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "20.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 50900,
@@ -25,5 +25,5 @@
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
   },
-  "runtime": "9.0"
+  "runtime": "14.0"
 }
